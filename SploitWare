@@ -18,7 +18,7 @@ G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 -- StarterGui.SylonX.MainUI
 G2L["2"] = Instance.new("Frame", G2L["1"]);
 G2L["2"]["Active"] = true;
-G2L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 36, 0);
+G2L["2"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 139);
 G2L["2"]["Size"] = UDim2.new(0, 641, 0, 282);
 G2L["2"]["Position"] = UDim2.new(0.11153730750083923, 0, 0.21357615292072296, 0);
 G2L["2"]["Name"] = [[MainUI]];
@@ -315,7 +315,7 @@ G2L["2b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 G2L["2b"]["TextSize"] = 40;
 G2L["2b"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
 G2L["2b"]["Size"] = UDim2.new(0, 284, 0, 74);
-G2L["2b"]["Text"] = [[A UI Executor that is made by Jesx gaming and Artex! It's an Executor that gives u new features :) Huge W To Øneplayer#7568 for developing this update.]];
+G2L["2b"]["Text"] = [[SploitWare V2 Was True... We Officialy Welcome You To The New Verison of SploitWare!]];
 G2L["2b"]["Name"] = [[name]];
 G2L["2b"]["BackgroundTransparency"] = 1;
 G2L["2b"]["Position"] = UDim2.new(0.3246701955795288, 0, 0.02857142686843872, 0);
@@ -535,7 +535,7 @@ G2L["48"]["AutomaticSize"] = Enum.AutomaticSize.X;
 G2L["48"]["Size"] = UDim2.new(1, -5, 1, -7);
 G2L["48"]["Text"] = [[1]];
 G2L["48"]["Name"] = [[Lines]];
-G2L["48"]["BackgroundTransparency"] = 0.9990000128746033;
+G2L["48"]["BackgroundTransparency"] = 0.980000128746033;
 G2L["48"]["Position"] = UDim2.new(0, 5, 0, 7);
 
 -- StarterGui.SylonX.MainUI.Tabs.Executor.TextboxBar.LocalScript.ScriptEditor.Editor.Scroll.Left.Lines.BottomFade
